@@ -1,0 +1,7 @@
+Feature-rich threaded MSN Messenger bot written in PHP with MZK protocol lib. 
+
+Send, receive, listen and log messages. +Send new invitations. 
+
+Real-time console. Tons of options. Detailed logs.
+
+Run via CLI or in web GUI.
